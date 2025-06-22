@@ -4,19 +4,6 @@
 
 This project delves into the **World Happiness Report** dataset to uncover fascinating insights into global well-being. Through extensive Exploratory Data Analysis (EDA) and compelling data visualizations, we explore the factors contributing to happiness across various countries and years. This project aims to understand trends, correlations, and key drivers of happiness on a global scale.
 
-## Table of Contents
-
-  * [Project Overview](https://www.google.com/search?q=%23project-overview)
-  * [Dataset](https://www.google.com/search?q=%23dataset)
-  * [Key Questions Explored](https://www.google.com/search?q=%23key-questions-explored)
-  * [Methodology](https://www.google.com/search?q=%23methodology)
-  * [Key Findings & Visualizations](https://www.google.com/search?q=%23key-findings--visualizations)
-  * [Technologies Used](https://www.google.com/search?q=%23technologies-used)
-  * [How to Run the Project](https://www.google.com/search?q=%23how-to-run-the-project)
-  * [Future Enhancements](https://www.google.com/search?q=%23future-enhancements)
-  * [Contributing](https://www.google.com/search?q=%23contributing)
-  * [License](https://www.google.com/search?q=%23license)
-  * [Contact](https://www.google.com/search?q=%23contact)
 
 ## Dataset
 
