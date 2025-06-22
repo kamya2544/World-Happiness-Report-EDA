@@ -30,7 +30,7 @@ This project addresses various questions to understand the nuances of global hap
   * Are there regional differences in happiness levels and their contributing factors?
   * How do freedom and generosity influence a country's happiness score?
   * What is the impact of corruption on perceived happiness?
-  * (Add any other specific questions you addressed in your EDA)
+  
 
 ## Methodology
 
