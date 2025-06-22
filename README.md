@@ -54,11 +54,11 @@ The project follows a standard data analysis workflow:
 
   * **[Example 1: Global Happiness Trend Over Years]**
         
-      * **Insight:** "The average global happiness has shown a slight [increase/decrease/stability] over the past decade, with notable fluctuations in [mention specific years/events if applicable]."
+      * **Insight:** "The average global happiness has shown a slight decrease over the past decade, with notable fluctuations in corruption and life expectancy."
 
   * **[Example 2: Top 10 Happiest Countries]**
 
-      * **Insight:** "Countries like [Country A], [Country B], and [Country C] consistently rank among the happiest, often characterized by strong social support systems and high GDP per capita."
+      * **Insight:** "Countries from Western Europe, North America and ANZ consistently rank among the happiest, often characterized by strong social support systems and high GDP per capita."
 
   * **[Example 3: Correlation Heatmap]**
 
